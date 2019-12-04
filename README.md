@@ -5,8 +5,9 @@
 ## 模块的安装
 
 ```
-npm install geekjc-cli -g
-
+git clone https://github.com/cllgeek/geekjc-cli.git
+cd geekjc-cli
+npm link
 ```
 
 ## 模块的使用

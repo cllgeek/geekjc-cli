@@ -10,6 +10,9 @@
     "命令行工具",
     "nodejs"
   ],
+  "bin": {
+    "geekjc-cli": "./index.js"
+  },
   "author": "ll",
   "license": "ISC",
   "dependencies": {
