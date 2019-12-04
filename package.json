@@ -1,0 +1,23 @@
+{
+  "name": "geekjc-cli",
+  "version": "0.0.1",
+  "description": "命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "命令行工具",
+    "nodejs"
+  ],
+  "author": "ll",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^4.0.1",
+    "fs-extra": "^8.1.0",
+    "json-format": "^1.0.1",
+    "shelljs": "^0.8.3"
+  }
+}
